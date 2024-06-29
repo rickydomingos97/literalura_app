@@ -39,6 +39,6 @@ Certifique-se de que todos os requisitos estão atendidos antes de executar a ap
 6 - Utilizei um arquivo .env para as variaveis de ambiente. Faz-se necessario o uso da dependencia: 'spring-dotenv' para que seja possivel utilizar o arquivo .env no projeto
 
 ## Contribuição e Sugestões
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novas funcionalidades ✨
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novas funcionalidades são bem-vindas sempre! :blue_heart: :blue_heart:
 
-### Made with love <3
+##### Made with love :blue_heart:
